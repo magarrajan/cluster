@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-cluster",
+  "version": "0.0.1",
+  "description": "A single instance of Node.js runs in a single thread. To take advantage of multi-core systems the user will sometimes want to launch a cluster of Node.js processes to handle the load.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magarrajan/cluster.git"
+  },
+  "author": "rajmagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magarrajan/cluster/issues"
+  },
+  "homepage": "https://github.com/magarrajan/cluster#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
